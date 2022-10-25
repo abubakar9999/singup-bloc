@@ -1,0 +1,2 @@
+String autherrorRegester='';
+String authloginregester='';
